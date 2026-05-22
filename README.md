@@ -1,5 +1,3 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/55c4b4a25b184814ba52da8862dcb31b)](https://www.codacy.com/app/Allomani/songs300?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=allomani/songs300&amp;utm_campaign=Badge_Grade)
-
 # Audio & Video v3.0
 
 Script For Audio And Videos Websites , Contains a lot of Features for Easy Management
@@ -55,7 +53,7 @@ note : if you faced any none writable folder message ,give it the permission 777
 4. delete "install" folder 
 
 
-
+هذا الاسكربت محدث ليعمل على php8.x
 --------------------------
 Allomani Programming Services
 www.allomani.com
