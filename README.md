@@ -55,5 +55,3 @@ note : if you faced any none writable folder message ,give it the permission 777
 
 هذا الاسكربت محدث ليعمل على php8.x
 --------------------------
-Allomani Programming Services
-www.allomani.com
